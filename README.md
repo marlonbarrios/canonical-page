@@ -8,8 +8,11 @@ Performance with app by Laura V Ward and VIP guest
 The computer recomposes time and space creating and generating always new space-time loops and rhythms. Pachebel's canon in D is offered 
 as a meta-logical pattern and a context for image recomposition with repetitions, juxtapositions and counterpoints.
 The app also allows you to play and stop the music. The user also may record the video and sound of the performance pressinf a button. When the redording is stopped a download button appears and when pressed the video file is downloaded to the local computer.
-Code Repository
-My portfolio
+
+[Code Repository](https://github.com/marlonbarrios/canonical01/)
+
+[My Portfolio](https://marlonbarrios.github.io/)
+
 Enjoy the space here:
 It works better in Chrome and brave (not so well in safari).
 
