@@ -19,9 +19,13 @@ It works better in Chrome and brave (not so well in safari).
 https://marlonbarrios.github.io/canonical01/
 
 These video are a live captures; they have  sound. Watch in full screen.
+
 By Marlon
+
 https://youtu.be/7T7D8zL2ia4
+
 by Laura and Squeaky Deaky
+
 https://youtu.be/5kKkI9k3tPs
 
 *Concept, software Marlon Barrios Solano*
@@ -50,6 +54,6 @@ Created for MotionDAO experiments in NFTs that invite to move.
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
 INVITATION TO DACERS AND MOVERS:
-I would love to create a collection of performances within these softwar spaces for an online exhibition.
+I would love to create a collection of performances within these software spaces for an online exhibition and another in Ghent, Brussels.
 If you make a recording please share it with me at 
 marlon@dance-tech.net
