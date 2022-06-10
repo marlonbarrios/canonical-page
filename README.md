@@ -9,16 +9,22 @@ The computer recomposes time and space creating and generating always new space-
 as a meta-logical pattern and a context for image recomposition with repetitions, juxtapositions and counterpoints.
 The app also allows you to play and stop the music. The user also may record the video and sound of the performance pressinf a button. When the redording is stopped a download button appears and when pressed the video file is downloaded to the local computer.
 
-[Code Repository](https://github.com/marlonbarrios/canonical01/)
 
-[My Portfolio](https://marlonbarrios.github.io/)
+[Back to my Portfolio](https://marlonbarrios.github.io/)
+
 
 Enjoy the space here:
-It works better in Chrome and brave (not so well in safari).
+It works better in Chrome and Brave (not so well in safari).
 
 [GO TO LIVE APP HERE](https://marlonbarrios.github.io/canonical01/)
 
+
+[Code Repository](https://github.com/marlonbarrios/canonical01/)
+
 *Simple Instructions:*
+
+*NOTE: It can take 5 seconds to load the video feed after you aprove it. The sequencing should be contonuous from bottom-up; reload otherwise.*
+
 
 1.-Open link to app in your computer. You would nee to have a webcam embedded of connected to your computer.
 
