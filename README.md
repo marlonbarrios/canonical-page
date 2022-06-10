@@ -49,13 +49,10 @@ Some examples:
 
 *These videos are a live captures; they have sound. Watch in full screen.*
 
-By Marlon
 
-https://youtu.be/7T7D8zL2ia4
+[By Marlon](https://youtu.be/7T7D8zL2ia4)
 
-by Laura V Ward  and Squeaky Deaky
-
-https://youtu.be/5kKkI9k3tPs
+[By Laura V Ward  and Squeaky Deaky](https://youtu.be/5kKkI9k3tPs)
 
 
 *Concept, software Marlon Barrios Solano*
