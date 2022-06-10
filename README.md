@@ -30,7 +30,7 @@ It works better in Chrome and brave (not so well in safari).
 
 5.-Press download and a video mp4 file will be dowloaded to your computer.
 
-6.-You may share you video in YoYbe and send me the link to marlon#dance-tech.net
+6.-You may share your video in YoYbe and send me the link to marlon@dance-tech.net
 
 *INVITATION TO DANCERS AND MOVERS:*
 
