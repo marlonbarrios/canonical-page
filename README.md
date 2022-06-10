@@ -17,7 +17,8 @@ Enjoy the space here:
 It works better in Chrome and brave (not so well in safari).
 
 [GO TO LIVE APP HERE](https://marlonbarrios.github.io/canonical01/)
-Simple Instructions:
+
+*Simple Instructions:*
 
 1.-Open link to app in your computer. You would nee to have a webcam embedded of connected to your computer.
 
@@ -31,15 +32,15 @@ Simple Instructions:
 
 6.-You may share you video in YoYbe and send me the link to marlon#dance-tech.net
 
-INVITATION TO DACERS AND MOVERS:
+*INVITATION TO DANCERS AND MOVERS:*
 
 I would love to create a collection of performances within these software spaces for an online exhibition.
 If you make a recording please share it with me at  marlon@dance-tech.net
 Thre may be some compensation via MotionDAO.
 
 
-
 Some examples: 
+
 *These videos are a live captures; they have sound. Watch in full screen.*
 
 By Marlon
@@ -52,10 +53,15 @@ https://youtu.be/5kKkI9k3tPs
 
 
 *Concept, software Marlon Barrios Solano*
+
 Programmed in p5.js
+
 MIT Lisence.
+
 Artist: Chamber Music Society
+
 Song: Canon in D
+
 Composer: Johann Pachelbel
 
 This is a prototype for MotionDAO NFT collection.
@@ -69,7 +75,7 @@ This is a prototype for MotionDAO NFT collection.
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
 it helps us to rediscover the affordances of movement and perception augmented by computational systems and strategies. The space of
 the frame is choreographed and remapped in coupling with user/performer. Soft Spaces represent the cognitive continuity of software, 
-interface and embodiment. They are invitations to create and compose. How do they make us move?" 
+interface and embodiment. They are invitations to create and compose. How do they soaces make you move?" 
 
 Created for MotionDAO experiments in NFTs that invite to move.
 
