@@ -16,17 +16,40 @@ The app also allows you to play and stop the music. The user also may record the
 Enjoy the space here:
 It works better in Chrome and brave (not so well in safari).
 
-https://marlonbarrios.github.io/canonical01/
+[GO TO LIVE APP HERE](https://marlonbarrios.github.io/canonical01/)
+Simple Instructions:
 
-These video are a live captures; they have  sound. Watch in full screen.
+1.-Open link to app in your computer. You would nee to have a webcam embedded of connected to your computer.
+
+2.-Play with your movements and delayes or the sequencing of the movements.
+
+3.-You may play the Pachebl's Canon in D pressing the button or try you music with in.
+
+4.-You may record you performance of the Cnon wuth the recording button. You you stop the redording a brutton for downloading will appear. 
+
+5.-Press download and a video mp4 file will be dowloaded to your computer.
+
+6.-You may share you video in YoYbe and send me the link to marlon#dance-tech.net
+
+INVITATION TO DACERS AND MOVERS:
+
+I would love to create a collection of performances within these software spaces for an online exhibition.
+If you make a recording please share it with me at  marlon@dance-tech.net
+Thre may be some compensation via MotionDAO.
+
+
+
+Some examples: 
+*These videos are a live captures; they have sound. Watch in full screen.*
 
 By Marlon
 
 https://youtu.be/7T7D8zL2ia4
 
-by Laura and Squeaky Deaky
+by Laura V Ward  and Squeaky Deaky
 
 https://youtu.be/5kKkI9k3tPs
+
 
 *Concept, software Marlon Barrios Solano*
 Programmed in p5.js
@@ -41,7 +64,6 @@ This is a prototype for MotionDAO NFT collection.
 
 <img width="768" alt="Screen Shot 2022-06-08 at 11 25 57 AM" src="https://user-images.githubusercontent.com/90220317/172655809-80feee80-6f8d-4d82-b57c-34312657e26c.png">
 
-
 ## Soft Spaces:
 
 It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
@@ -53,7 +75,5 @@ Created for MotionDAO experiments in NFTs that invite to move.
 
 [Web3/web2 Projects](https://marlonbarrios.github.io/web3-blockchain-dev// 'CODE REPOSITORY')
 
-INVITATION TO DACERS AND MOVERS:
-I would love to create a collection of performances within these software spaces for an online exhibition and another in Ghent, Brussels.
-If you make a recording please share it with me at 
-marlon@dance-tech.net
+
+
