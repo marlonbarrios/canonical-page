@@ -74,11 +74,10 @@ This is a prototype for MotionDAO NFT collection.
 <img width="768" alt="Screen Shot 2022-06-08 at 11 25 57 AM" src="https://user-images.githubusercontent.com/90220317/172655809-80feee80-6f8d-4d82-b57c-34312657e26c.png">
 
 ## Soft Spaces:
+## Soft Spaces:
 
-It is series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
-it helps us to rediscover the affordances of movement and perception augmented by computational systems and strategies. The space of
-the frame is choreographed and remapped in coupling with user/performer. Soft Spaces represent the cognitive continuity of software, 
-interface and embodiment. They are invitations to create and compose. How do they soaces make you move?" 
+It is a series of classic video processing algorithms that uses the webcam input as a source and the browser as performance space; 
+they helps us to rediscover the affordances of movement and perception augmented by computational systems and algorithmic compositional strategies. The space of the frame is choreographed and remapped in coupling with the camera of user/performer. Soft Spaces represent the cognitive continuity of software creation,  interface design and embodiment. They conceived as invitations are invitations to create and compose in front of the computer. How do they  make you move?" 
 
 Created for MotionDAO experiments in NFTs that invite to move.
 
